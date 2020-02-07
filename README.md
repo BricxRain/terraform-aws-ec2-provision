@@ -1,2 +1,2 @@
-# terraform-aws-ec2-provision
+# Terraform AWS EC2 Provision
 Provisioning AWS EC2 instance using Terraform
